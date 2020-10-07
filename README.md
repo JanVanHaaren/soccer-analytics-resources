@@ -15,6 +15,7 @@ Collection of references, datasets and software libraries for soccer analytics.
 * [Expected Potential (xPo)](https://thecomeonman.github.io/xPo/). **Aditya Kothari.** *The Come On Man.* Blog post. Appeared on 05 April 2020.
 * [Goals Added: Introducing a New Way to Measure Soccer](https://www.americansocceranalysis.com/home/2020/4/22/37ucr0d5urxxtryn2cfhzormdziphq). **John Muller.** *American Soccer Analysis.* Blog post. Appeared on 04 May 2020.
 * [Deep Soccer Analytics: Learning an Action-Value Function for Evaluating Soccer Players](https://link.springer.com/article/10.1007/s10618-020-00705-9). **Guiliang Liu, Yudong Luo, Oliver Schulte, Tarak Kharrat.** *Data Mining and Knowledge Discovery.* Journal paper. Appeared on 21 July 2020.
+* [Evolving Our Possession Value Framework](https://www.statsperform.com/resource/evolving-our-possession-value-framework/). **Jonny Whitmore.** *Stats Perform.* Blog post. Appeared on 07 October 2020.
 
 ## Datasets
 * [StatsBomb Open Data](https://github.com/statsbomb/open-data). Event dataset for men's and women's soccer.
