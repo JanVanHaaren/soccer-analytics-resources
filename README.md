@@ -33,4 +33,5 @@ Collection of references, datasets and software libraries for soccer analytics.
 * [statsbomb-parser](https://github.com/imrankhan17/statsbomb-parser)
 * [statsbombapi](https://github.com/Torvaney/statsbombapi)
 * [statsbombpy](https://github.com/statsbomb/statsbombpy)
+* [tyrone_mings](https://github.com/FCrSTATS/tyrone_mings)
 
