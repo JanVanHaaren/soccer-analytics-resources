@@ -20,6 +20,7 @@ Collection of references, datasets and software libraries for soccer analytics.
 ## Datasets
 * [StatsBomb Open Data](https://github.com/statsbomb/open-data). Event dataset for men's and women's soccer.
 * [Wyscout Match Event Dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000). Event dataset for men's soccer.
+* [SkillCorner Open Data](https://github.com/SkillCorner/opendata). Broadcast tracking dataset for nine matches.
 * [Metrica Sports Sample Data](https://github.com/metrica-sports/sample-data). Tracking and event dataset for two anonymized matches.
 
 ## Python Libraries
